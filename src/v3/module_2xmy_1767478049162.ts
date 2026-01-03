@@ -1,0 +1,1 @@
+const util_2xmy = (d: any) => d;
